@@ -7,7 +7,7 @@
   
   .container {
     text-align: center;
-    display:inline-grid;
+    display:grid;
     grid-template-columns: 1fr 4fr;
     gap:4px;
   }
